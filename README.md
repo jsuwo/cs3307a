@@ -12,4 +12,5 @@ doing.
 * 2012-09-24: Introduction to the STL
 * 2012-09-26: `const` Correctness - no code samples (see the lecture notes for snippets)
 * 2012-10-01: Inheritance
+* 2012-10-03: Casts and Conversions
 
