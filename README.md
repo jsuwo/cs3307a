@@ -14,3 +14,34 @@ doing.
 * 2012-10-01: Inheritance
 * 2012-10-03: Casts and Conversions
 
+* Creational Design Patterns
+    * Singleton
+    * Factory Method
+    * Abstract Factory (no code example)
+    * Builder
+    * Prototype
+
+* Behavioural Design Patterns
+    * Command
+    * Iterator (no code example)
+    * Observer
+    * Memento
+    * State
+    * Strategy
+    * Template
+    * Visitor
+    * Skipped: 
+      * Chain of Command
+      * Interpreter
+      * Mediator
+
+* Structural Design Patterns
+    * Adapter
+    * Bridge
+    * Composite
+    * Decorator (no code example)
+    * Flyweight (no code example)
+    * Skipped:
+      * Façade
+      * Proxy
+
